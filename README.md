@@ -1,7 +1,7 @@
 # centernet3d_UltraFastLane_tensorRT_github
 ---
 本仓库存储了Ultra-Fast-Lane-Detection算法TensorRT加速、centernet3d算法TensorRT加速及联合使用示例。
-由于模型较大，无法放在仓库中，完整代码自取：[完整代码](https://github.com/wuzengqun/Ultra-Fast-Lane-Detection_TensorRT-/releases/download/v1.0.0/Ultra-Fast-Lane-Detection_tensorrt_local.zip)  
+由于模型较大，无法放在仓库中，完整代码自取：[完整代码](https://github.com/wuzengqun/3D-/releases/download/v1.0.0/centernet3d_UltraFastLane_tensorRT.zip)  
 
 演示视频:  
 ---
