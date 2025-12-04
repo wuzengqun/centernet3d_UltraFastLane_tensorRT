@@ -20,7 +20,7 @@ tensorRT_3d_lane_video.py：tensorRT模型视频推理demo
 导出onnx:  
 ---
 一、Ultra-Fast-Lane-Detection  
-参考：https://github.com/wuzengqun/Ultra-Fast-Lane-Detection_TensorRT-
+参考：https://github.com/wuzengqun/Ultra-Fast-Lane-Detection_TensorRT-  
 二、Monodle centerNet3D  
 参考：https://blog.csdn.net/zhangqian_1/article/details/139180009
 
